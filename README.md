@@ -10,23 +10,11 @@
 Example of **Bolded** text.
 Example of *Italicized* text.
 
-<a id="Hyperlink example - Mordhau Discord">(https://discord.gg/YhM7V7nbFU)</>
-
-1. Numbered
-2. List
-3. Support
-- Nested
-- Bulleted
-- List
-- Support
-
-**Standalone**
-* Bulleted
-* List
-* Support
+<a href="https://discord.gg/YhM7V7nbFU">Discord</a>
 
 
-####• Welcome to Arvi's Duel • **
+
+****• Welcome to Arvi's Duel • ****
 
 ##Rules: **
 
