@@ -7,6 +7,6 @@
  5.be chill  **
 
 
-<a id="Arvi's Duel - Discord Server">https://discord.gg/YhM7V7nbFU</>
+<a id="Arvi's Duel - Discord Server">https://discord.gg/M9Ur48h2sS</>
 
 ![Arvi](https://cdn.discordapp.com/attachments/1195861352019931186/1236703666916823040/Picsart_24-05-05_16-20-00-048.png?ex=6638f98b&is=6637a80b&hm=9cc421a706d4588e4c4085435c746e08ba994b74da23248c47e84271200e6a88&)
